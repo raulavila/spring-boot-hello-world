@@ -19,6 +19,3 @@ target/
 application-enterprise-ldap.yml
 application-test.yml
 
-# CF Manifest file
-manifest.yml
-manifest-*.yml

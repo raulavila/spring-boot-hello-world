@@ -1,0 +1,4 @@
+---
+applications:
+  - name: spring-boot-hello-world
+    path: hello-world-0.0.1-SNAPSHOT.jar
